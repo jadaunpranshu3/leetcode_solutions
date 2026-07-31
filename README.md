@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jadaunpranshu3/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/jadaunpranshu3/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/jadaunpranshu3/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/jadaunpranshu3/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jadaunpranshu3/leetcode_solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/jadaunpranshu3/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/jadaunpranshu3/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/jadaunpranshu3/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Database
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jadaunpranshu3/leetcode_solutions/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/jadaunpranshu3/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
